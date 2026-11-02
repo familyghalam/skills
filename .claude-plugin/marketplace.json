@@ -1,0 +1,16 @@
+{
+  "name": "familyghalam-skills",
+  "version": "1.0.0",
+  "description": "Personal Claude skills marketplace for familyghalam.",
+  "owner": {
+    "name": "familyghalam"
+  },
+  "plugins": [
+    {
+      "name": "apple-design",
+      "description": "Apple-style interface design, motion, interaction, typography, materials, accessibility, and UI craft for the web.",
+      "version": "1.0.0",
+      "source": "./plugins/apple-design"
+    }
+  ]
+}
