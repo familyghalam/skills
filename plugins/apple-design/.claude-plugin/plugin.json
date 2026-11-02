@@ -1,0 +1,15 @@
+{
+  "name": "apple-design",
+  "version": "1.0.0",
+  "description": "Apple-style interface design, motion, interaction, typography, materials, accessibility, and UI craft for the web.",
+  "repository": "https://github.com/familyghalam/skills",
+  "license": "MIT",
+  "keywords": [
+    "apple",
+    "design",
+    "ui",
+    "ux",
+    "motion",
+    "web"
+  ]
+}
